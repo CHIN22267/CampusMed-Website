@@ -1,2 +1,2 @@
 # CampusMed-Website
-A web-based application created in order to manage the medical facilities and provide a good interaction base among doctors, nurses, admin staff and students.
+A full-stack healthcare management system that streamlines campus medical services through secure digital health records, appointment scheduling, and efficient patient data management.
